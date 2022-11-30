@@ -1,0 +1,334 @@
+species,is_adelie,island,is_biscoe,bill_length_mm,body_mass_g
+Adelie,is Adelie,Torgersen, not Biscoe,39.1,3750
+Adelie,is Adelie,Torgersen, not Biscoe,39.5,3800
+Adelie,is Adelie,Torgersen, not Biscoe,40.3,3250
+Adelie,is Adelie,Torgersen, not Biscoe,36.7,3450
+Adelie,is Adelie,Torgersen, not Biscoe,39.3,3650
+Adelie,is Adelie,Torgersen, not Biscoe,38.9,3625
+Adelie,is Adelie,Torgersen, not Biscoe,39.2,4675
+Adelie,is Adelie,Torgersen, not Biscoe,41.1,3200
+Adelie,is Adelie,Torgersen, not Biscoe,38.6,3800
+Adelie,is Adelie,Torgersen, not Biscoe,34.6,4400
+Adelie,is Adelie,Torgersen, not Biscoe,36.6,3700
+Adelie,is Adelie,Torgersen, not Biscoe,38.7,3450
+Adelie,is Adelie,Torgersen, not Biscoe,42.5,4500
+Adelie,is Adelie,Torgersen, not Biscoe,34.4,3325
+Adelie,is Adelie,Torgersen, not Biscoe,46,4200
+Adelie,is Adelie,Biscoe,is Biscoe,37.8,3400
+Adelie,is Adelie,Biscoe,is Biscoe,37.7,3600
+Adelie,is Adelie,Biscoe,is Biscoe,35.9,3800
+Adelie,is Adelie,Biscoe,is Biscoe,38.2,3950
+Adelie,is Adelie,Biscoe,is Biscoe,38.8,3800
+Adelie,is Adelie,Biscoe,is Biscoe,35.3,3800
+Adelie,is Adelie,Biscoe,is Biscoe,40.6,3550
+Adelie,is Adelie,Biscoe,is Biscoe,40.5,3200
+Adelie,is Adelie,Biscoe,is Biscoe,37.9,3150
+Adelie,is Adelie,Biscoe,is Biscoe,40.5,3950
+Adelie,is Adelie,Dream, not Biscoe,39.5,3250
+Adelie,is Adelie,Dream, not Biscoe,37.2,3900
+Adelie,is Adelie,Dream, not Biscoe,39.5,3300
+Adelie,is Adelie,Dream, not Biscoe,40.9,3900
+Adelie,is Adelie,Dream, not Biscoe,36.4,3325
+Adelie,is Adelie,Dream, not Biscoe,39.2,4150
+Adelie,is Adelie,Dream, not Biscoe,38.8,3950
+Adelie,is Adelie,Dream, not Biscoe,42.2,3550
+Adelie,is Adelie,Dream, not Biscoe,37.6,3300
+Adelie,is Adelie,Dream, not Biscoe,39.8,4650
+Adelie,is Adelie,Dream, not Biscoe,36.5,3150
+Adelie,is Adelie,Dream, not Biscoe,40.8,3900
+Adelie,is Adelie,Dream, not Biscoe,36,3100
+Adelie,is Adelie,Dream, not Biscoe,44.1,4400
+Adelie,is Adelie,Dream, not Biscoe,37,3000
+Adelie,is Adelie,Dream, not Biscoe,39.6,4600
+Adelie,is Adelie,Dream, not Biscoe,41.1,3425
+Adelie,is Adelie,Dream, not Biscoe,36,3450
+Adelie,is Adelie,Dream, not Biscoe,42.3,4150
+Adelie,is Adelie,Biscoe,is Biscoe,39.6,3500
+Adelie,is Adelie,Biscoe,is Biscoe,40.1,4300
+Adelie,is Adelie,Biscoe,is Biscoe,35,3450
+Adelie,is Adelie,Biscoe,is Biscoe,42,4050
+Adelie,is Adelie,Biscoe,is Biscoe,34.5,2900
+Adelie,is Adelie,Biscoe,is Biscoe,41.4,3700
+Adelie,is Adelie,Biscoe,is Biscoe,39,3550
+Adelie,is Adelie,Biscoe,is Biscoe,40.6,3800
+Adelie,is Adelie,Biscoe,is Biscoe,36.5,2850
+Adelie,is Adelie,Biscoe,is Biscoe,37.6,3750
+Adelie,is Adelie,Biscoe,is Biscoe,35.7,3150
+Adelie,is Adelie,Biscoe,is Biscoe,41.3,4400
+Adelie,is Adelie,Biscoe,is Biscoe,37.6,3600
+Adelie,is Adelie,Biscoe,is Biscoe,41.1,4050
+Adelie,is Adelie,Biscoe,is Biscoe,36.4,2850
+Adelie,is Adelie,Biscoe,is Biscoe,41.6,3950
+Adelie,is Adelie,Biscoe,is Biscoe,35.5,3350
+Adelie,is Adelie,Biscoe,is Biscoe,41.1,4100
+Adelie,is Adelie,Torgersen, not Biscoe,35.9,3050
+Adelie,is Adelie,Torgersen, not Biscoe,41.8,4450
+Adelie,is Adelie,Torgersen, not Biscoe,33.5,3600
+Adelie,is Adelie,Torgersen, not Biscoe,39.7,3900
+Adelie,is Adelie,Torgersen, not Biscoe,39.6,3550
+Adelie,is Adelie,Torgersen, not Biscoe,45.8,4150
+Adelie,is Adelie,Torgersen, not Biscoe,35.5,3700
+Adelie,is Adelie,Torgersen, not Biscoe,42.8,4250
+Adelie,is Adelie,Torgersen, not Biscoe,40.9,3700
+Adelie,is Adelie,Torgersen, not Biscoe,37.2,3900
+Adelie,is Adelie,Torgersen, not Biscoe,36.2,3550
+Adelie,is Adelie,Torgersen, not Biscoe,42.1,4000
+Adelie,is Adelie,Torgersen, not Biscoe,34.6,3200
+Adelie,is Adelie,Torgersen, not Biscoe,42.9,4700
+Adelie,is Adelie,Torgersen, not Biscoe,36.7,3800
+Adelie,is Adelie,Torgersen, not Biscoe,35.1,4200
+Adelie,is Adelie,Dream, not Biscoe,37.3,3350
+Adelie,is Adelie,Dream, not Biscoe,41.3,3550
+Adelie,is Adelie,Dream, not Biscoe,36.3,3800
+Adelie,is Adelie,Dream, not Biscoe,36.9,3500
+Adelie,is Adelie,Dream, not Biscoe,38.3,3950
+Adelie,is Adelie,Dream, not Biscoe,38.9,3600
+Adelie,is Adelie,Dream, not Biscoe,35.7,3550
+Adelie,is Adelie,Dream, not Biscoe,41.1,4300
+Adelie,is Adelie,Dream, not Biscoe,34,3400
+Adelie,is Adelie,Dream, not Biscoe,39.6,4450
+Adelie,is Adelie,Dream, not Biscoe,36.2,3300
+Adelie,is Adelie,Dream, not Biscoe,40.8,4300
+Adelie,is Adelie,Dream, not Biscoe,38.1,3700
+Adelie,is Adelie,Dream, not Biscoe,40.3,4350
+Adelie,is Adelie,Dream, not Biscoe,33.1,2900
+Adelie,is Adelie,Dream, not Biscoe,43.2,4100
+Adelie,is Adelie,Biscoe,is Biscoe,35,3725
+Adelie,is Adelie,Biscoe,is Biscoe,41,4725
+Adelie,is Adelie,Biscoe,is Biscoe,37.7,3075
+Adelie,is Adelie,Biscoe,is Biscoe,37.8,4250
+Adelie,is Adelie,Biscoe,is Biscoe,37.9,2925
+Adelie,is Adelie,Biscoe,is Biscoe,39.7,3550
+Adelie,is Adelie,Biscoe,is Biscoe,38.6,3750
+Adelie,is Adelie,Biscoe,is Biscoe,38.2,3900
+Adelie,is Adelie,Biscoe,is Biscoe,38.1,3175
+Adelie,is Adelie,Biscoe,is Biscoe,43.2,4775
+Adelie,is Adelie,Biscoe,is Biscoe,38.1,3825
+Adelie,is Adelie,Biscoe,is Biscoe,45.6,4600
+Adelie,is Adelie,Biscoe,is Biscoe,39.7,3200
+Adelie,is Adelie,Biscoe,is Biscoe,42.2,4275
+Adelie,is Adelie,Biscoe,is Biscoe,39.6,3900
+Adelie,is Adelie,Biscoe,is Biscoe,42.7,4075
+Adelie,is Adelie,Torgersen, not Biscoe,38.6,2900
+Adelie,is Adelie,Torgersen, not Biscoe,37.3,3775
+Adelie,is Adelie,Torgersen, not Biscoe,35.7,3350
+Adelie,is Adelie,Torgersen, not Biscoe,41.1,3325
+Adelie,is Adelie,Torgersen, not Biscoe,36.2,3150
+Adelie,is Adelie,Torgersen, not Biscoe,37.7,3500
+Adelie,is Adelie,Torgersen, not Biscoe,40.2,3450
+Adelie,is Adelie,Torgersen, not Biscoe,41.4,3875
+Adelie,is Adelie,Torgersen, not Biscoe,35.2,3050
+Adelie,is Adelie,Torgersen, not Biscoe,40.6,4000
+Adelie,is Adelie,Torgersen, not Biscoe,38.8,3275
+Adelie,is Adelie,Torgersen, not Biscoe,41.5,4300
+Adelie,is Adelie,Torgersen, not Biscoe,39,3050
+Adelie,is Adelie,Torgersen, not Biscoe,44.1,4000
+Adelie,is Adelie,Torgersen, not Biscoe,38.5,3325
+Adelie,is Adelie,Torgersen, not Biscoe,43.1,3500
+Adelie,is Adelie,Dream, not Biscoe,36.8,3500
+Adelie,is Adelie,Dream, not Biscoe,37.5,4475
+Adelie,is Adelie,Dream, not Biscoe,38.1,3425
+Adelie,is Adelie,Dream, not Biscoe,41.1,3900
+Adelie,is Adelie,Dream, not Biscoe,35.6,3175
+Adelie,is Adelie,Dream, not Biscoe,40.2,3975
+Adelie,is Adelie,Dream, not Biscoe,37,3400
+Adelie,is Adelie,Dream, not Biscoe,39.7,4250
+Adelie,is Adelie,Dream, not Biscoe,40.2,3400
+Adelie,is Adelie,Dream, not Biscoe,40.6,3475
+Adelie,is Adelie,Dream, not Biscoe,32.1,3050
+Adelie,is Adelie,Dream, not Biscoe,40.7,3725
+Adelie,is Adelie,Dream, not Biscoe,37.3,3000
+Adelie,is Adelie,Dream, not Biscoe,39,3650
+Adelie,is Adelie,Dream, not Biscoe,39.2,4250
+Adelie,is Adelie,Dream, not Biscoe,36.6,3475
+Adelie,is Adelie,Dream, not Biscoe,36,3450
+Adelie,is Adelie,Dream, not Biscoe,37.8,3750
+Adelie,is Adelie,Dream, not Biscoe,36,3700
+Adelie,is Adelie,Dream, not Biscoe,41.5,4000
+Gentoo, not Adelie,Biscoe,is Biscoe,46.1,4500
+Gentoo, not Adelie,Biscoe,is Biscoe,50,5700
+Gentoo, not Adelie,Biscoe,is Biscoe,48.7,4450
+Gentoo, not Adelie,Biscoe,is Biscoe,50,5700
+Gentoo, not Adelie,Biscoe,is Biscoe,47.6,5400
+Gentoo, not Adelie,Biscoe,is Biscoe,46.5,4550
+Gentoo, not Adelie,Biscoe,is Biscoe,45.4,4800
+Gentoo, not Adelie,Biscoe,is Biscoe,46.7,5200
+Gentoo, not Adelie,Biscoe,is Biscoe,43.3,4400
+Gentoo, not Adelie,Biscoe,is Biscoe,46.8,5150
+Gentoo, not Adelie,Biscoe,is Biscoe,40.9,4650
+Gentoo, not Adelie,Biscoe,is Biscoe,49,5550
+Gentoo, not Adelie,Biscoe,is Biscoe,45.5,4650
+Gentoo, not Adelie,Biscoe,is Biscoe,48.4,5850
+Gentoo, not Adelie,Biscoe,is Biscoe,45.8,4200
+Gentoo, not Adelie,Biscoe,is Biscoe,49.3,5850
+Gentoo, not Adelie,Biscoe,is Biscoe,42,4150
+Gentoo, not Adelie,Biscoe,is Biscoe,49.2,6300
+Gentoo, not Adelie,Biscoe,is Biscoe,46.2,4800
+Gentoo, not Adelie,Biscoe,is Biscoe,48.7,5350
+Gentoo, not Adelie,Biscoe,is Biscoe,50.2,5700
+Gentoo, not Adelie,Biscoe,is Biscoe,45.1,5000
+Gentoo, not Adelie,Biscoe,is Biscoe,46.5,4400
+Gentoo, not Adelie,Biscoe,is Biscoe,46.3,5050
+Gentoo, not Adelie,Biscoe,is Biscoe,42.9,5000
+Gentoo, not Adelie,Biscoe,is Biscoe,46.1,5100
+Gentoo, not Adelie,Biscoe,is Biscoe,47.8,5650
+Gentoo, not Adelie,Biscoe,is Biscoe,48.2,4600
+Gentoo, not Adelie,Biscoe,is Biscoe,50,5550
+Gentoo, not Adelie,Biscoe,is Biscoe,47.3,5250
+Gentoo, not Adelie,Biscoe,is Biscoe,42.8,4700
+Gentoo, not Adelie,Biscoe,is Biscoe,45.1,5050
+Gentoo, not Adelie,Biscoe,is Biscoe,59.6,6050
+Gentoo, not Adelie,Biscoe,is Biscoe,49.1,5150
+Gentoo, not Adelie,Biscoe,is Biscoe,48.4,5400
+Gentoo, not Adelie,Biscoe,is Biscoe,42.6,4950
+Gentoo, not Adelie,Biscoe,is Biscoe,44.4,5250
+Gentoo, not Adelie,Biscoe,is Biscoe,44,4350
+Gentoo, not Adelie,Biscoe,is Biscoe,48.7,5350
+Gentoo, not Adelie,Biscoe,is Biscoe,42.7,3950
+Gentoo, not Adelie,Biscoe,is Biscoe,49.6,5700
+Gentoo, not Adelie,Biscoe,is Biscoe,45.3,4300
+Gentoo, not Adelie,Biscoe,is Biscoe,49.6,4750
+Gentoo, not Adelie,Biscoe,is Biscoe,50.5,5550
+Gentoo, not Adelie,Biscoe,is Biscoe,43.6,4900
+Gentoo, not Adelie,Biscoe,is Biscoe,45.5,4200
+Gentoo, not Adelie,Biscoe,is Biscoe,50.5,5400
+Gentoo, not Adelie,Biscoe,is Biscoe,44.9,5100
+Gentoo, not Adelie,Biscoe,is Biscoe,45.2,5300
+Gentoo, not Adelie,Biscoe,is Biscoe,46.6,4850
+Gentoo, not Adelie,Biscoe,is Biscoe,48.5,5300
+Gentoo, not Adelie,Biscoe,is Biscoe,45.1,4400
+Gentoo, not Adelie,Biscoe,is Biscoe,50.1,5000
+Gentoo, not Adelie,Biscoe,is Biscoe,46.5,4900
+Gentoo, not Adelie,Biscoe,is Biscoe,45,5050
+Gentoo, not Adelie,Biscoe,is Biscoe,43.8,4300
+Gentoo, not Adelie,Biscoe,is Biscoe,45.5,5000
+Gentoo, not Adelie,Biscoe,is Biscoe,43.2,4450
+Gentoo, not Adelie,Biscoe,is Biscoe,50.4,5550
+Gentoo, not Adelie,Biscoe,is Biscoe,45.3,4200
+Gentoo, not Adelie,Biscoe,is Biscoe,46.2,5300
+Gentoo, not Adelie,Biscoe,is Biscoe,45.7,4400
+Gentoo, not Adelie,Biscoe,is Biscoe,54.3,5650
+Gentoo, not Adelie,Biscoe,is Biscoe,45.8,4700
+Gentoo, not Adelie,Biscoe,is Biscoe,49.8,5700
+Gentoo, not Adelie,Biscoe,is Biscoe,49.5,5800
+Gentoo, not Adelie,Biscoe,is Biscoe,43.5,4700
+Gentoo, not Adelie,Biscoe,is Biscoe,50.7,5550
+Gentoo, not Adelie,Biscoe,is Biscoe,47.7,4750
+Gentoo, not Adelie,Biscoe,is Biscoe,46.4,5000
+Gentoo, not Adelie,Biscoe,is Biscoe,48.2,5100
+Gentoo, not Adelie,Biscoe,is Biscoe,46.5,5200
+Gentoo, not Adelie,Biscoe,is Biscoe,46.4,4700
+Gentoo, not Adelie,Biscoe,is Biscoe,48.6,5800
+Gentoo, not Adelie,Biscoe,is Biscoe,47.5,4600
+Gentoo, not Adelie,Biscoe,is Biscoe,51.1,6000
+Gentoo, not Adelie,Biscoe,is Biscoe,45.2,4750
+Gentoo, not Adelie,Biscoe,is Biscoe,45.2,5950
+Gentoo, not Adelie,Biscoe,is Biscoe,49.1,4625
+Gentoo, not Adelie,Biscoe,is Biscoe,52.5,5450
+Gentoo, not Adelie,Biscoe,is Biscoe,47.4,4725
+Gentoo, not Adelie,Biscoe,is Biscoe,50,5350
+Gentoo, not Adelie,Biscoe,is Biscoe,44.9,4750
+Gentoo, not Adelie,Biscoe,is Biscoe,50.8,5600
+Gentoo, not Adelie,Biscoe,is Biscoe,43.4,4600
+Gentoo, not Adelie,Biscoe,is Biscoe,51.3,5300
+Gentoo, not Adelie,Biscoe,is Biscoe,47.5,4875
+Gentoo, not Adelie,Biscoe,is Biscoe,52.1,5550
+Gentoo, not Adelie,Biscoe,is Biscoe,47.5,4950
+Gentoo, not Adelie,Biscoe,is Biscoe,52.2,5400
+Gentoo, not Adelie,Biscoe,is Biscoe,45.5,4750
+Gentoo, not Adelie,Biscoe,is Biscoe,49.5,5650
+Gentoo, not Adelie,Biscoe,is Biscoe,44.5,4850
+Gentoo, not Adelie,Biscoe,is Biscoe,50.8,5200
+Gentoo, not Adelie,Biscoe,is Biscoe,49.4,4925
+Gentoo, not Adelie,Biscoe,is Biscoe,46.9,4875
+Gentoo, not Adelie,Biscoe,is Biscoe,48.4,4625
+Gentoo, not Adelie,Biscoe,is Biscoe,51.1,5250
+Gentoo, not Adelie,Biscoe,is Biscoe,48.5,4850
+Gentoo, not Adelie,Biscoe,is Biscoe,55.9,5600
+Gentoo, not Adelie,Biscoe,is Biscoe,47.2,4975
+Gentoo, not Adelie,Biscoe,is Biscoe,49.1,5500
+Gentoo, not Adelie,Biscoe,is Biscoe,46.8,5500
+Gentoo, not Adelie,Biscoe,is Biscoe,41.7,4700
+Gentoo, not Adelie,Biscoe,is Biscoe,53.4,5500
+Gentoo, not Adelie,Biscoe,is Biscoe,43.3,4575
+Gentoo, not Adelie,Biscoe,is Biscoe,48.1,5500
+Gentoo, not Adelie,Biscoe,is Biscoe,50.5,5000
+Gentoo, not Adelie,Biscoe,is Biscoe,49.8,5950
+Gentoo, not Adelie,Biscoe,is Biscoe,43.5,4650
+Gentoo, not Adelie,Biscoe,is Biscoe,51.5,5500
+Gentoo, not Adelie,Biscoe,is Biscoe,46.2,4375
+Gentoo, not Adelie,Biscoe,is Biscoe,55.1,5850
+Gentoo, not Adelie,Biscoe,is Biscoe,48.8,6000
+Gentoo, not Adelie,Biscoe,is Biscoe,47.2,4925
+Gentoo, not Adelie,Biscoe,is Biscoe,46.8,4850
+Gentoo, not Adelie,Biscoe,is Biscoe,50.4,5750
+Gentoo, not Adelie,Biscoe,is Biscoe,45.2,5200
+Gentoo, not Adelie,Biscoe,is Biscoe,49.9,5400
+Chinstrap, not Adelie,Dream, not Biscoe,46.5,3500
+Chinstrap, not Adelie,Dream, not Biscoe,50,3900
+Chinstrap, not Adelie,Dream, not Biscoe,51.3,3650
+Chinstrap, not Adelie,Dream, not Biscoe,45.4,3525
+Chinstrap, not Adelie,Dream, not Biscoe,52.7,3725
+Chinstrap, not Adelie,Dream, not Biscoe,45.2,3950
+Chinstrap, not Adelie,Dream, not Biscoe,46.1,3250
+Chinstrap, not Adelie,Dream, not Biscoe,51.3,3750
+Chinstrap, not Adelie,Dream, not Biscoe,46,4150
+Chinstrap, not Adelie,Dream, not Biscoe,51.3,3700
+Chinstrap, not Adelie,Dream, not Biscoe,46.6,3800
+Chinstrap, not Adelie,Dream, not Biscoe,51.7,3775
+Chinstrap, not Adelie,Dream, not Biscoe,47,3700
+Chinstrap, not Adelie,Dream, not Biscoe,52,4050
+Chinstrap, not Adelie,Dream, not Biscoe,45.9,3575
+Chinstrap, not Adelie,Dream, not Biscoe,50.5,4050
+Chinstrap, not Adelie,Dream, not Biscoe,50.3,3300
+Chinstrap, not Adelie,Dream, not Biscoe,58,3700
+Chinstrap, not Adelie,Dream, not Biscoe,46.4,3450
+Chinstrap, not Adelie,Dream, not Biscoe,49.2,4400
+Chinstrap, not Adelie,Dream, not Biscoe,42.4,3600
+Chinstrap, not Adelie,Dream, not Biscoe,48.5,3400
+Chinstrap, not Adelie,Dream, not Biscoe,43.2,2900
+Chinstrap, not Adelie,Dream, not Biscoe,50.6,3800
+Chinstrap, not Adelie,Dream, not Biscoe,46.7,3300
+Chinstrap, not Adelie,Dream, not Biscoe,52,4150
+Chinstrap, not Adelie,Dream, not Biscoe,50.5,3400
+Chinstrap, not Adelie,Dream, not Biscoe,49.5,3800
+Chinstrap, not Adelie,Dream, not Biscoe,46.4,3700
+Chinstrap, not Adelie,Dream, not Biscoe,52.8,4550
+Chinstrap, not Adelie,Dream, not Biscoe,40.9,3200
+Chinstrap, not Adelie,Dream, not Biscoe,54.2,4300
+Chinstrap, not Adelie,Dream, not Biscoe,42.5,3350
+Chinstrap, not Adelie,Dream, not Biscoe,51,4100
+Chinstrap, not Adelie,Dream, not Biscoe,49.7,3600
+Chinstrap, not Adelie,Dream, not Biscoe,47.5,3900
+Chinstrap, not Adelie,Dream, not Biscoe,47.6,3850
+Chinstrap, not Adelie,Dream, not Biscoe,52,4800
+Chinstrap, not Adelie,Dream, not Biscoe,46.9,2700
+Chinstrap, not Adelie,Dream, not Biscoe,53.5,4500
+Chinstrap, not Adelie,Dream, not Biscoe,49,3950
+Chinstrap, not Adelie,Dream, not Biscoe,46.2,3650
+Chinstrap, not Adelie,Dream, not Biscoe,50.9,3550
+Chinstrap, not Adelie,Dream, not Biscoe,45.5,3500
+Chinstrap, not Adelie,Dream, not Biscoe,50.9,3675
+Chinstrap, not Adelie,Dream, not Biscoe,50.8,4450
+Chinstrap, not Adelie,Dream, not Biscoe,50.1,3400
+Chinstrap, not Adelie,Dream, not Biscoe,49,4300
+Chinstrap, not Adelie,Dream, not Biscoe,51.5,3250
+Chinstrap, not Adelie,Dream, not Biscoe,49.8,3675
+Chinstrap, not Adelie,Dream, not Biscoe,48.1,3325
+Chinstrap, not Adelie,Dream, not Biscoe,51.4,3950
+Chinstrap, not Adelie,Dream, not Biscoe,45.7,3600
+Chinstrap, not Adelie,Dream, not Biscoe,50.7,4050
+Chinstrap, not Adelie,Dream, not Biscoe,42.5,3350
+Chinstrap, not Adelie,Dream, not Biscoe,52.2,3450
+Chinstrap, not Adelie,Dream, not Biscoe,45.2,3250
+Chinstrap, not Adelie,Dream, not Biscoe,49.3,4050
+Chinstrap, not Adelie,Dream, not Biscoe,50.2,3800
+Chinstrap, not Adelie,Dream, not Biscoe,45.6,3525
+Chinstrap, not Adelie,Dream, not Biscoe,51.9,3950
+Chinstrap, not Adelie,Dream, not Biscoe,46.8,3650
+Chinstrap, not Adelie,Dream, not Biscoe,45.7,3650
+Chinstrap, not Adelie,Dream, not Biscoe,55.8,4000
+Chinstrap, not Adelie,Dream, not Biscoe,43.5,3400
+Chinstrap, not Adelie,Dream, not Biscoe,49.6,3775
+Chinstrap, not Adelie,Dream, not Biscoe,50.8,4100
+Chinstrap, not Adelie,Dream, not Biscoe,50.2,3775
